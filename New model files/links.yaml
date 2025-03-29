@@ -1,0 +1,27 @@
+
+links:
+    BEL,NLD-12_1.techs: #Zeeland
+        ac_ohl_transmission:
+            constraints:
+                energy_cap_min: 0.035  # (100,000 MW)
+            costs.monetary.energy_cap: 17.5  # (10,000 EUR/MW)
+    NLD-7_1,DEU.techs: #Limburg
+        ac_ohl_transmission:
+            constraints:
+                energy_cap_min: 0.085  # (100,000 MW)
+            costs.monetary.energy_cap: 17.5  # (10,000 EUR/MW)
+    NL12,DNK.techs: #Friesland
+        dc_subsea_transmission:
+            constraints:
+                energy_cap_min: 0.007  # (100,000 MW)
+            costs.monetary.energy_cap: 94.2  # (10,000 EUR/MW)
+    NLD-14_1,GBR.techs: #South Holland
+        dc_subsea_transmission:
+            constraints:
+                energy_cap_min: 0.01  # (100,000 MW)
+            costs.monetary.energy_cap: 94.2  # (10,000 EUR/MW)
+    NLD-5_1,NOR.techs: #Groeningen
+        dc_subsea_transmission:
+            constraints:
+                energy_cap_min: 0.007  # (100,000 MW)
+            costs.monetary.energy_cap: 94.2  # (10,000 EUR/MW)

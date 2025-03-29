@@ -1,0 +1,14 @@
+techs,colors
+battery,#33F6FF
+ccgt,#AB2C18
+curtailment,#6F6C7C
+demand_electricity,#072486
+export_electricity,#D800FF
+hvac_transmission,#CF74B2
+hydrogen_to_power,#9958D6
+import_electricity,#FF009E
+lost_load,#030303
+pv_farm,#FFE400
+pv_rooftop,#FFB600
+wind_offshore,#275FB0
+wind_onshore,#27B09F

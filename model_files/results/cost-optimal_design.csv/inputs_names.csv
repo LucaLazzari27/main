@@ -1,0 +1,14 @@
+techs,names
+battery,Battery storage
+ccgt,Combined cycle gas turbine
+curtailment,Electricity curtailment
+demand_electricity,Electricity demand
+export_electricity,Electricity export
+hvac_transmission,Transmission intra-zonal electricity
+hydrogen_to_power,Hydrogen-to-power storage
+import_electricity,Electricity import
+lost_load,Lost load
+pv_farm,Photovoltaic power farm-scale
+pv_rooftop,Photovoltaic power distributed
+wind_offshore,Off-shore wind power
+wind_onshore,On-shore wind power

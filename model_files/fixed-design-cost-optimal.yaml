@@ -1,0 +1,278 @@
+overrides:
+  fix-design-to-cost-optimal:
+    locations:
+      NL22.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 277.35784
+        ccgt:
+          constraints:
+            energy_cap_equals: 1055.7845
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 2318.0333
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 1525.8277
+      NL21.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 182.29423
+        ccgt:
+          constraints:
+            energy_cap_equals: 565.72289
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 1453.0431
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 825.48866
+      NL12.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 84.053957
+        ccgt:
+          constraints:
+            energy_cap_equals: 295.91977
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 240.50442
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_offshore:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 525.96801
+      NL33.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 1019.6001
+        ccgt:
+          constraints:
+            energy_cap_equals: 2015.3739
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 2500.0
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_offshore:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 4126.091
+      NL42.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 170.03073
+        ccgt:
+          constraints:
+            energy_cap_equals: 593.75194
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 1521.2976
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 711.39703
+      NL13.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 75.498985
+        ccgt:
+          constraints:
+            energy_cap_equals: 203.87602
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 365.85141
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 335.28295
+      NL11.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 161.51397
+        ccgt:
+          constraints:
+            energy_cap_equals: 330.37309
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 308.88562
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_offshore:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 803.1842
+      NL34.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 102.06837
+        ccgt:
+          constraints:
+            energy_cap_equals: 153.78872
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 295.88408
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_offshore:
+          constraints:
+            energy_cap_equals: 96.773068
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 287.39839
+      NL23.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 96.65066
+        ccgt:
+          constraints:
+            energy_cap_equals: 157.33526
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 369.0833
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_offshore:
+          constraints:
+            energy_cap_equals: 276.16291
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 0.0
+      NL32.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 961.41448
+        ccgt:
+          constraints:
+            energy_cap_equals: 2072.009
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 2500.0
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 115.59265
+        wind_offshore:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 3909.1842
+      NL31.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 345.90696
+        ccgt:
+          constraints:
+            energy_cap_equals: 962.14037
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 2226.3018
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 1248.6078
+      NL41.techs:
+        battery:
+          constraints:
+            energy_cap_equals: 444.23159
+        ccgt:
+          constraints:
+            energy_cap_equals: 1593.9245
+        hydrogen_to_power:
+          constraints:
+            energy_cap_equals: 0.0
+        pv_farm:
+          constraints:
+            energy_cap_equals: 2500.0
+        pv_rooftop:
+          constraints:
+            energy_cap_equals: 0.0
+        wind_onshore:
+          constraints:
+            energy_cap_equals: 2652.4352
+    links:
+      NL22,NL41.techs:
+        hvac_transmission.constraints.energy_cap_equals: 11.8867
+      NL21,NL22.techs:
+        hvac_transmission.constraints.energy_cap_equals: 11.8867
+      NL21,NL23.techs:
+        hvac_transmission.constraints.energy_cap_equals: 15.3276
+      NL12,NL23.techs:
+        hvac_transmission.constraints.energy_cap_equals: 3.4401
+      NL33,NL41.techs:
+        hvac_transmission.constraints.energy_cap_equals: 11.8867
+      NL13,NL21.techs:
+        hvac_transmission.constraints.energy_cap_equals: 15.3276
+      NL11,NL12.techs:
+        hvac_transmission.constraints.energy_cap_equals: 3.4401
+      NL11,NL13.techs:
+        hvac_transmission.constraints.energy_cap_equals: 15.3276
+      NL34,NL41.techs:
+        hvac_transmission.constraints.energy_cap_equals: 11.8867
+      NL23,NL32.techs:
+        hvac_transmission.constraints.energy_cap_equals: 16.9811
+      NL32,NL33.techs:
+        hvac_transmission.constraints.energy_cap_equals: 11.8867
+      NL31,NL32.techs:
+        hvac_transmission.constraints.energy_cap_equals: 11.8867
+      NL31,NL33.techs:
+        hvac_transmission.constraints.energy_cap_equals: 1.1886
+      NL41,NL42.techs:
+        hvac_transmission.constraints.energy_cap_equals: 23.7734

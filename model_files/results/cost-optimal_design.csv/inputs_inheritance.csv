@@ -1,0 +1,14 @@
+techs,inheritance
+battery,storage
+ccgt,supply
+curtailment,demand
+demand_electricity,demand
+export_electricity,demand
+hvac_transmission,transmission
+hydrogen_to_power,storage
+import_electricity,supply
+lost_load,supply
+pv_farm,supply
+pv_rooftop,supply
+wind_offshore,supply
+wind_onshore,supply
